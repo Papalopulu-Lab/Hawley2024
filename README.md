@@ -5,5 +5,5 @@
 
 Division of Developmental Biology and Medicine, School of Medical Sciences, Faculty of Biology, Medicine and Health, The University of Manchester, Oxford Road, Manchester, M13 9PT, UK
 
-<sup>1</sup> joint first authors*
+<sup>1</sup> first author*
 
