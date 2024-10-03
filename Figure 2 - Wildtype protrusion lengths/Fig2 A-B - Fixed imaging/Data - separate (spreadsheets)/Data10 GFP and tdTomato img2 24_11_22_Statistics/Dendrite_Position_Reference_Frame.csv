@@ -1,0 +1,10 @@
+
+Dendrite Position Reference Frame
+ ==================== 
+Dendrite Position X Reference Frame,Dendrite Position Y Reference Frame,Dendrite Position Z Reference Frame,Unit,Category,Collection,Depth,Level,ReferenceFrame,Time,FilamentID,ID,
+11.8074,20.7464,4.55809,um,Dendrite,Dendrite Position Reference Frame,0,1,Reference Frame 1,1,100000000,510000000001,
+18.7542,20.3988,3.70187,um,Dendrite,Dendrite Position Reference Frame,0,1,Reference Frame 1,1,100000001,510000000016,
+-1.59663,30.6425,5.94401,um,Dendrite,Dendrite Position Reference Frame,0,1,Reference Frame 1,1,100000002,510000000028,
+-3.1521,31.0662,6.24605,um,Dendrite,Dendrite Position Reference Frame,0,1,Reference Frame 1,1,100000003,510000000039,
+-0.861832,25.9139,6.26595,um,Dendrite,Dendrite Position Reference Frame,0,1,Reference Frame 1,1,100000004,510000000053,
+-1.62294,23.9972,5.85711,um,Dendrite,Dendrite Position Reference Frame,0,1,Reference Frame 1,1,100000005,510000000058,
